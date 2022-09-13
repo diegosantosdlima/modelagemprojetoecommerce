@@ -1,5 +1,6 @@
 # Modelagem de Projeto E-commerce
 Este projeto foi desenvolvido no curso de Data Science, modelando um banco de dados para um E-Commerce de venda de produtos.
+Para realizar a modelagem foi utilizado o MySQL WORKBENCH
 
 Narrativa - Produto
 • Os produtos são vendidos por uma única plataforma online.
